@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Android Practice</string>
+    <string name="round">this_will_be_round</string>
+    <string name="rectangle">this_will_be_rectangle</string>
+
+</resources>
